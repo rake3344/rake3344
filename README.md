@@ -1,3 +1,7 @@
+<div align="center">
+  <img src= "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Juan Camilo Agudelo Giraldo</h1>
 <h3 align="center">A Full Stack Web Developer From Colombia</h3>
 
